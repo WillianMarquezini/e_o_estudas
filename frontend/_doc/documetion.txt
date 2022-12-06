@@ -1,0 +1,5 @@
+app/Public: 
+- fica com as imgs / tudo que ficara altamente publico na url / 
+
+src: 
+- onde ficara o projeto em si 
