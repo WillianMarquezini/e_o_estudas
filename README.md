@@ -8,9 +8,9 @@ Repositório criado para poder estudar PHP e o conceito de API Rest.
 ```CMD
 npm install   // instalar os modulos 
 
-npm run start // iniciar serve em tempo real 
+npm run start // iniciar server em tempo real 
 
-npm run build-dev // /Dist -dev fucionara independente do node Js 
+npm run build-dev // /Dist -dev funcionara independente do node Js 
 
-npm run build-prod // /Dist -prod fucionara independente do node Js 
+npm run build-prod // /Dist -prod funcionara independente do node Js 
 ````
